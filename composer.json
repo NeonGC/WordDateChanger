@@ -1,0 +1,15 @@
+{
+  "name": "neongc/worddatechanger",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "NeonGC",
+      "homepage": "https://neongc.ru/"
+    }
+  ],
+  "require": {
+    "phpoffice/phpword": "v0.18.*"
+  }
+}
